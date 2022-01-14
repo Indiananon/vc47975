@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IndianAnons</h1>
+<h1 align="center">Hi 👋, I'm IndianAnon</h1>
 <h3 align="center">A passionate Cyber Security analyst from India</h3>
 
 - 🔭 I’m currently working on **spam detection using neural network**
